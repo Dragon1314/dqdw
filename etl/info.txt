@@ -1,2 +1,6 @@
 it's ok
+<<<<<<< HEAD
+=======
+## 
+>>>>>>> 46447a5... reset info.txt 2
 all right
